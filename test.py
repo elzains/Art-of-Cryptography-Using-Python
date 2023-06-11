@@ -1,16 +1,16 @@
-# Import Library
+# Import Library Moviepy
 from moviepy.editor import *
 
-# Wadah Video
+# Wadah Citra Video
 clip = VideoFileClip("before.mp4").subclip(0, 10)
 
 # Teks Watermark
-text_clip = TextClip("Elzains Studio", fontsize=100, color="white")
+text_clip = TextClip("Elzains Startup", fontsize=100, color="white")
 
-# Posisi Teks
+# Posisi Watermark
 text_clip = text_clip.set_position("center").set_duration(10)
 
-# Join Assets
+# Join Video + Video
 video = CompositeVideoClip([clip, text_clip])
 
 # Simpan
