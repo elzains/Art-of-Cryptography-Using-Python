@@ -1,2 +1,25 @@
-# Watermaking-Video-Python
-This repository contains source code to add a watermark to a video using the Python technology called MoviePy. It is an assignment for the Information Security Management course by Professor Nur Azise, M.Kom. at Ibrahimy University.
+
+# Art of Cryptography Using Python
+
+Seni untuk melindungi kerahasiaan, integritas, dan otentikasi informasi dengan indah.
+
+
+
+
+
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+
+
+#### Authors
+- [@elzains](https://github.com/elzains/)
+
+
+
+
+## Tech Stack
+
+**Tools:** Visual Studio Code & Terminal Linux
+
+**Tech:** Python
